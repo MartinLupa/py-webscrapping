@@ -8,6 +8,6 @@ Series of Web Scraping tutorials and projects.<br>
 <li>BeautifulSoup find & find_all() methods
 <li>Web Browser Inspect tool
 <li>Scraping Production Websites, best practices for pulling info
-<li>Looping throgh similar objects
+<li>Looping through similar objects
           
   
